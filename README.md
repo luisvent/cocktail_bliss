@@ -16,6 +16,14 @@ Stay organized and never lose a recipe again with our handy bookmark section. Ma
 
 No internet? No problem! Cocktail Bliss understands the importance of unwinding and creating memorable moments anywhere, anytime.
 
+![Cocktail Bliss](images/img_1.jpeg)
+![Cocktail Bliss](images/img_2.jpeg)
+![Cocktail Bliss](images/img_3.jpeg)
+![Cocktail Bliss](images/img_4.jpeg)
+![Cocktail Bliss](images/img_5.jpeg)
+![Cocktail Bliss](images/img_6.jpeg)
+![Cocktail Bliss](images/img_7.jpeg)
+![Cocktail Bliss](images/img_8.jpeg)
 
 Credits:
 
@@ -31,13 +39,6 @@ Icon made by Vitaly Gorbachev from www.flaticon.com
 Cocktail icon by Icons8
 
 
-![Cocktail Bliss](images/Apple iPhone 11 Pro Max Screenshot 0 Small.jpeg)
-![Cocktail Bliss](images/Apple iPhone 11 Pro Max Screenshot 1 Small.jpeg)
-![Cocktail Bliss](images/Apple iPhone 11 Pro Max Screenshot 2 Small.jpeg)
-![Cocktail Bliss](images/Apple iPhone 11 Pro Max Screenshot 3 Small.jpeg)
-![Cocktail Bliss](images/Apple iPhone 11 Pro Max Screenshot 4 Small.jpeg)
-![Cocktail Bliss](images/Apple iPhone 11 Pro Max Screenshot 5 Small.jpeg)
-![Cocktail Bliss](images/Apple iPhone 11 Pro Max Screenshot 6 Small.jpeg)
-![Cocktail Bliss](images/Apple iPhone 11 Pro Max Screenshot 7 Small.jpeg)
+
 
 -------------------------------------------------------
